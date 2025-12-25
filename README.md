@@ -60,7 +60,3 @@ The program outputs the list of high-probability binary strings found and displa
 - A histogram detailing the raw measurement counts for all states.
 
 Successful execution will show a high probability peak at palindrome states (e.g., `10001`, `01110`, `00000`).
-
-## License
-
-This project is open-source and available under the MIT License.
